@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Forever13in
-- 👀 I’m interested in MATH.
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I’m Wang Huibin 👋
+🎓 Mathematics & Economics Major | Data Analyst & Developer
+📍 Beijing, China
+
+🌱 About Me:
+
+🔬 Background: Major in Mathematics and Economics. I possess a rigorous “Scholar” mindset, dedicated to uncovering the truth behind data.
+🎨 Interests: A enthusiast of both Science and Art. I appreciate logic as much as aesthetics.
+💻 Focus: Transforming complex data into actionable insights using Python (Crawler, Pandas) and SQL.
+🌱 Tech Stack:
+
+💻 Languages: C/C++, Python, SQL
+🛠 Tools: Pandas, Scikit-learn, Matplotlib, Selenium
+📊 Analysis: Data Mining, Text Analysis, A/B Testing
+
+⚡ Beyond Code:
+
+📖 Reading & Writing | 🏸 Badminton | 🍳 Cooking
 
 <!---
 Forever13in/Forever13in is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
